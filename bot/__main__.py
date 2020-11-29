@@ -65,10 +65,7 @@ USER_SETTINGS = {}
 GDPR = []
 
 START_IMG = os.environ.get('START_IMG', None)
-if START_IMG is None:
-    img = "https://telegra.ph/file/fc734b227985a1524e715.jpg"
-else:
-  img = START_IMG    
+
     
 for module_name in ALL_MODULES:
     imported_module = importlib.import_module("bot.modules." + module_name)
