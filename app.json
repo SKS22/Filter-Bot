@@ -40,10 +40,6 @@
          "required": false,
          "value": "699615803 809546777"
       },
-       "START_IMG": {
-         "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/fc734b227985a1524e715.jpg"    
-      },
       "PORT": {
          "description": "Port to use for your webhooks.",
          "required": false,
