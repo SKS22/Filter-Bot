@@ -31,8 +31,7 @@ Official Bot For @MCArchives"""
 
 
 HELP_STRINGS = """
-*Hello My name is* *{}*.
-*Main Available Commands are Below:*
+*Official Bot For @MCArchives*
 
 All of the following commands  / can  be used...
 
